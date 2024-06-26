@@ -39,17 +39,15 @@ basic tags like `<a>`, `<p>`, `<h1>`, and `<img>`.**
 
 ## The major languages for creating a website
 
-![Untitled-2024-06-07-1849.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/4193d755-8e09-4bd8-9a6d-cb6faed38896/Untitled-2024-06-07-1849.jpg)
 
-![Untitled-2024-06-07-1848.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/cad5d618-4f99-41ea-97a5-d49c017d9741/Untitled-2024-06-07-1848.png)
-
-![Untitled-2024-06-07-1848.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/4f13464e-fe90-49db-b4ec-9fe01667f827/Untitled-2024-06-07-1848.png)
+![image1](https://github.com/aryanprajapati18/mywebsite/assets/172613612/e0a0a08a-6a5b-4619-9cb6-932cb0a88e6c)
 
 # Understanding with example about HTML and CSS
 
-![upload_b8d6c572c3e020a9b0a5f952021f5b41.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/71e3c1b9-0a06-4fca-a6ae-50c2ab0ff910/upload_b8d6c572c3e020a9b0a5f952021f5b41.jpg)
+![image2](https://github.com/aryanprajapati18/mywebsite/assets/172613612/fffa0666-8e58-42d5-ad79-55c95b7c2c17)
 
-!https://hackmd.io/_uploads/Sk8lWxL40.jpg
+
+
 
 ## Common elements that are used for creating a website
 
@@ -92,7 +90,8 @@ basic tags like `<a>`, `<p>`, `<h1>`, and `<img>`.**
 
 A tag is a special type of text that is used to create elements and structure a web page. Tags are the fundamental building blocks of HTML. Each tag generally consists of an opening tag and a closing tag, with content in between.
 
-![Untitled-2024-06-07-1850.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/0fca9dd0-cbdf-432d-abfc-28771c61ea9a/Untitled-2024-06-07-1850.png)
+![image3](https://github.com/aryanprajapati18/mywebsite/assets/172613612/270c359a-e544-4fd1-9980-bc43d2502745)
+
 
 Example:-
 
@@ -143,24 +142,29 @@ Hey this is an example of a tag
 
 # CSS box model
 
-![css box model2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/d52a189f-a589-41e6-ac31-d524e579c237/css_box_model2.png)
+![image4](https://github.com/aryanprajapati18/mywebsite/assets/172613612/19f64e0d-7e36-4416-b3a8-5150dc3ee659)
+
 
 - **Content box:** It is the space where the content of the HTML element appears, such as images, text, and more.
 - **Padding:** It is the transparent area around the content of the element.
     
-    ![Capture7.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/ba51b9e3-621b-41a5-ae72-884617375603/Capture7.png)
+    ![Capture7](https://github.com/aryanprajapati18/mywebsite/assets/172613612/276d6802-be4f-4757-820e-fdcdfad61f74)
+
     
 - **Border:** It is the box surrounding the padding box. By default, the value of the border for every HTML element is zero; however, increasing the border value increases the space between the padding and the margin box. Border will set a border around your element. You can determine the size, color, and style of the border. It will be set up in this order: width, style, color
     
-    ![Capture6.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/3bd6e35e-1cb6-467b-a7df-9e3eaaec58c2/Capture6.png)
+    ![Capture8](https://github.com/aryanprajapati18/mywebsite/assets/172613612/187366d9-27f7-4aad-b608-f498b244129b)
+
     
 - **Margin:** It is the transparent area outside the border box.
     
-    ![Capture8.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/9607e6e6-7b72-4835-8262-915052a90d80/Capture8.png)
+    ![Capture9](https://github.com/aryanprajapati18/mywebsite/assets/172613612/cafb8852-b6dc-47cd-9637-67f3111b43f7)
+
     
     # Creating a about us page for a website
     
-    ![Capture9.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/8a45e022-7bde-4fc6-91d9-44b8aeef4a8a/Capture9.png)
+   ![image5](https://github.com/aryanprajapati18/mywebsite/assets/172613612/d67e6480-52f9-4303-b34b-5decc72ce892)
+
     
     ### Steps to create following about us page:
     
@@ -219,7 +223,8 @@ Hey this is an example of a tag
     
     # Facts section of a website
     
-    ![Capture11.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/884c854c-18fb-4dd5-bcd3-bd8679825422/38dd2d12-b38c-494c-afa1-cf6d801c128b/Capture11.png)
+  ![image6](https://github.com/aryanprajapati18/mywebsite/assets/172613612/5dd70896-02f0-4aa9-bb38-0bac5cebcee6)
+
     
     ## Let’s understand with html code how this facts section is created
     
